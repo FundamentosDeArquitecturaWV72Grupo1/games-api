@@ -1,0 +1,5 @@
+package com.gamesapiexternal.service.games.domain.services;
+
+public interface GameCommandService {
+    
+}

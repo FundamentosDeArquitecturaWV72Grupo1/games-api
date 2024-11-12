@@ -1,0 +1,4 @@
+package com.gamesapiexternal.service.games.domain.model.events;
+
+public class GameCreatedEvent {
+}
